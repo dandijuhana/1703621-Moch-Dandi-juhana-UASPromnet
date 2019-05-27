@@ -1,0 +1,30 @@
+Moch Dandi Juhana
+1703621
+C 2017
+
+1. 	Web service adalah aplikasi sekumpulan data (database), perangkat lunak (software) 
+	atau bagian dari perangkat lunak yang dapat diakses secara remote oleh berbagai piranti dengan 
+	sebuah perantara tertentu.  Secara umum,web service  dapat diidentifikasikan dengan menggunakan 
+	URL seperti hanya web pada umumnya. Namun yang membedakan web service dengan web pada umumnya adalah 
+	interaksi yang diberikan oleh web service. Berbeda dengan URL web pada umumnya, URL web service hanya
+	menggandung kumpulan informasi, perintah, konfigurasi atau sintaks yang berguna membangun sebuah fungsi-fungsi 
+	tertentu dari aplikasi.
+
+2.	Php Intepreter adalah sebuah sarana untuk mengeksekusi script PhP karena Php 
+	tidak dapat dieksekusi langsung oleh browser. pada Umumnya Php Interpreter diimplementasikan sebagai
+	modul web server secara native , maupun dieksekusi menggunakan CGI.
+	Jenis - Jenis nya :
+	- Apache Module (mod_php)
+	- FastCGI
+	- PHP-FPM
+	
+3.	database adalah kumpulan data atau informasi yang diperoleh dan selanjutnya disimpan dalam suatu media, umumnya adalah 
+	di komputer. Pengolahan database dalam media komputer ditujukan untuk mempermudah dan tentunya mengikuti 
+	perkembangan zaman yang semakin menerapkan era komputerisasi.
+	Jenis - Jenis Database :
+
+	- Operational Database
+	- Relational Database 
+	- Distributed Database
+	- External Database
+	
